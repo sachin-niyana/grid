@@ -769,7 +769,9 @@
         width: 90px;
     }
 
-    .image-mt {}
+    .image-mt {
+        margin-top: -30px;
+    }
 
 }
 
